@@ -1,5 +1,5 @@
 # geth1programs
-A simple Node.js tool that extracts all of your HackerOne programs' name. Can easily be modified to grab other data as well.
+A simple Node.js tool that extracts all of your ![HackerOne](https://simpleicons.org/icons/hackerone.svg) programs' name. Can easily be modified to fetch other data as well.
 
 ## Install
 ```bash
