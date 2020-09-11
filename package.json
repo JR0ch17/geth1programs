@@ -1,0 +1,17 @@
+{
+  "name": "geth1programs",
+  "version": "1.0.0",
+  "description": "Get all HackerOne's programs",
+  "main": "./index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jasmin Landry @JR0ch17",
+  "license": "ISC",
+  "bin": {
+    "geth1programs": "./index.js"
+  },
+  "dependencies": {
+    "axios": "^0.20.0"
+  }
+}
